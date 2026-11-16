@@ -52,6 +52,8 @@ Detail lengkap, struktur folder, dan checklist acceptance: **[STANDARDS.md](STAN
 - Jangan pernah commit token ke repo mana pun.
 - Gunakan token hanya untuk operasi yang diminta, lalu sarankan rotate bila token pernah dibagikan di chat.
 - Disarankan fine-grained token dengan akses repo terbatas.
+
+
 ---
 
 ## Brand & Promotion Kit
